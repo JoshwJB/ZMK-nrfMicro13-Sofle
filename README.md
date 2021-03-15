@@ -8,3 +8,6 @@
 
 ### Layer 3
 ![Layer 3](https://user-images.githubusercontent.com/15612025/111165294-c7497200-8596-11eb-844f-ca3cbdfedb3c.png)
+
+## Builds
+Can be found under actions - https://github.com/JoshwJB/ZMK-nrfMicro13-Sofle/actions
